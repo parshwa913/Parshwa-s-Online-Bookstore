@@ -216,10 +216,9 @@ This project demonstrates a complete **user-centered design process** for a mobi
 ### Design System
 - **Colors**: 
   - Primary: #377DFF (Custom Blue)
-  - Secondary: #34C759 (Success Green)
   - Background: #FFFFFF (Pure White)
   - Gray: #D9D9D9 (Light Gray)
-  - Text: #000000, #8E8E93 (Gray scale)
+  - Text: #000000
 - **Typography**: SF Pro Rounded (iOS native font)
 - **Spacing**: 8px grid system for consistent layouts
 - **Icons**: SF Symbols for native iOS feel
