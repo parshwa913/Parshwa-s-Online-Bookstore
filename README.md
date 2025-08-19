@@ -2,18 +2,16 @@
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-4A90E2?style=for-the-badge&logo=adobe&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-Interactive-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
-![Mobile Design](https://img.shields.io/badge/Mobile-First-34C759?style=for-the-badge&logo=apple&logoColor=white)
-![HCI](https://img.shields.io/badge/HCI-Principles-9B59B6?style=for-the-badge&logo=academic&logoColor=white)
-![Wireframing](https://img.shields.io/badge/Wireframing-Low%20to%20High-E67E22?style=for-the-badge&logo=sketch&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-WCAG-16A085?style=for-the-badge&logo=accessibility&logoColor=white)
-![User Research](https://img.shields.io/badge/User-Research-8E44AD?style=for-the-badge&logo=searchengin&logoColor=white)
-![iPhone](https://img.shields.io/badge/iPhone_16_Pro_Max-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Design System](https://img.shields.io/badge/Design-System-2C3E50?style=for-the-badge&logo=designernews&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-377DFF?style=flat-square&logo=figma&logoColor=white)
+![Interactive Prototype](https://img.shields.io/badge/Interactive%20Prototype-377DFF?style=flat-square&logo=figma&logoColor=white)
+![Mobile First](https://img.shields.io/badge/Mobile%20First-000000?style=flat-square&logo=apple&logoColor=white)
+![User Research](https://img.shields.io/badge/User%20Research-377DFF?style=flat-square&logo=user&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-D9D9D9?style=flat-square&logo=figma&logoColor=black)
+![Design System](https://img.shields.io/badge/Design%20System-377DFF?style=flat-square&logo=figma&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-34C759?style=flat-square&logo=universal-access&logoColor=white)
 
-**A comprehensive mobile application prototype for an Online Bookstore, showcasing the complete design journey from research to high-fidelity interactive prototypes.**
+**A comprehensive mobile application prototype for an Online Bookstore, showcasing the complete design journey from user research to interactive prototypes.**
 
 [🎨 View Live Prototype](https://www.figma.com/design/fziMoYTwSlNqwkxsAHaUqY/Parshwa-s-Online-Bookstore?node-id=0-1&p=f) • [📱 Screenshots](#-screenshots) • [🔄 Design Process](#-design-process)
 
@@ -21,21 +19,21 @@
 
 ## ✨ Overview
 
-This project demonstrates a complete **Human-Computer Interaction (HCI)** design process for a mobile Online Bookstore application. Built entirely in Figma, it showcases the evolution from initial user research to polished, interactive prototypes optimized for iPhone 16 Pro Max.
+This project demonstrates a complete **user-centered design process** for a mobile Online Bookstore application. Built entirely in Figma, it showcases the evolution from initial user research to polished, interactive prototypes with modern design principles.
 
 ### 🎯 Key Highlights
 - 📋 **Research-driven design** with user personas and scenarios
 - 🖼️ **Low-fidelity wireframes** for structure validation
 - 🎨 **High-fidelity prototypes** with full interactivity
-- 📱 **Mobile-first approach** optimized for iPhone 16 Pro Max
-- ♿ **Accessibility-focused** with inclusive design principles
+- 📱 **Mobile-first approach** with modern iOS design principles
+- ♿ **Accessibility-focused** with inclusive design practices
 - 🔄 **Iterative improvements** based on usability feedback
 
 ---
 
 ## 🎯 Project Objectives
 
-- ✅ Apply **Human-Computer Interaction (HCI)** principles to mobile app design
+- ✅ Apply **user-centered design principles** to mobile app design
 - ✅ Document the complete design journey from wireframes to prototypes
 - ✅ Create intuitive navigation flows and user experiences
 - ✅ Ensure usability, accessibility, and visual consistency
@@ -61,9 +59,9 @@ This project demonstrates a complete **Human-Computer Interaction (HCI)** design
 - **As an avid reader**, I want to see visible prices, ratings, and detailed descriptions
 
 #### Real-world Scenarios
-1. **Rohan** logs in → searches for "Python Programming" → adds to cart → pays via UPI
-2. **Neha** browses Featured books → selects a novel → orders via Cash on Delivery
-3. **Mike** filters by "Computer Science" → finds textbook → saves to wishlist for later
+1. **Mike** logs in → searches for "Python Programming" → adds to cart → pays via UPI
+2. **Harvey** browses Featured books → selects a novel → orders via Cash on Delivery
+3. **Louis** filters by "Computer Science" → finds textbook → saves to wishlist for later
 
 ---
 
@@ -79,9 +77,9 @@ This project demonstrates a complete **Human-Computer Interaction (HCI)** design
 
 ### ⚡ Non-Functional Highlights
 - ⏱️ **Performance**: Loads in under 3 seconds
-- 📱 **Device Optimization**: Tailored for iPhone 16 Pro Max
+- 📱 **Device Compatibility**: Optimized for iPhone 14 Pro, 15 Pro, and 16 Pro Max (440 × 956 px)
 - 🔒 **Security**: Secure payment processing and user data protection
-- 🎨 **Visual Design**: Clean typography with modern sans-serif fonts
+- 🎨 **Visual Design**: Clean typography with SF Pro Rounded font
 - ♿ **Accessibility**: High contrast UI with touch-friendly elements (minimum 44px tap targets)
 
 ---
@@ -210,18 +208,19 @@ This project demonstrates a complete **Human-Computer Interaction (HCI)** design
 ## 📱 Technical Specifications
 
 ### Device Optimization
-- **Primary Target**: iPhone 16 Pro Max (430 × 932 px)
-- **Secondary Targets**: iPhone 15 Pro, iPhone 14 Pro
+- **Primary Target**: iPhone Pro Max series (440 × 956 px)
+- **Secondary Targets**: iPhone 14 Pro, iPhone 15 Pro
 - **Orientation**: Portrait-first with landscape considerations
 - **Interaction**: Touch-optimized with gesture support
 
 ### Design System
 - **Colors**: 
-  - Primary: #007AFF (iOS Blue)
+  - Primary: #377DFF (Custom Blue)
   - Secondary: #34C759 (Success Green)
   - Background: #FFFFFF (Pure White)
+  - Gray: #D9D9D9 (Light Gray)
   - Text: #000000, #8E8E93 (Gray scale)
-- **Typography**: SF Pro Display (iOS native font)
+- **Typography**: SF Pro Rounded (iOS native font)
 - **Spacing**: 8px grid system for consistent layouts
 - **Icons**: SF Symbols for native iOS feel
 
@@ -244,8 +243,7 @@ This project demonstrates a complete **Human-Computer Interaction (HCI)** design
 │       ├── cart-page.png
 │       ├── checkout-page.png
 │       └── order-confirmation-page.png
-├── 📄 README.md               # This documentation
-└── 📄 .gitignore             # Version control exclusions
+└── 📄 README.md               # This documentation
 ```
 
 ---
@@ -277,14 +275,11 @@ This project demonstrates a complete **Human-Computer Interaction (HCI)** design
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
-![Principle](https://img.shields.io/badge/Principle-FF6B6B?style=for-the-badge&logo=principle&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
 - **Primary Design**: Figma (Prototyping, Design System, Collaboration)
-- **Asset Creation**: Adobe Photoshop, Illustrator
 - **User Testing**: Figma's built-in sharing and feedback tools
 - **Documentation**: Markdown, GitHub
 
@@ -301,17 +296,7 @@ This project serves as a design case study and educational resource. If you'd li
 
 ---
 
-## 📧 Contact
-
-**Parshwa Herwade**
-- 🎓 Computer Science Student
-- 💼 UX/UI Design Enthusiast
-- 🔗 [Figma Profile](https://www.figma.com/@parshwa)
-- 📱 [LinkedIn](https://linkedin.com/in/parshwa-herwade)
-
----
-
-## 💡 Inspiration
+##  Inspiration
 
 > *"Design is not just what it looks like and feels like. Design is how it works."*  
 > — **Steve Jobs**
